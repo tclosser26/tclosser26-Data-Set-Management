@@ -1,2 +1,2 @@
 # tclosser26-Data-Set-Management
-This was a joint project where we were given a starter data set and tasked with the replication of an output data set. Use of conditional statements and arrays were heavily involved.
+To reiterate, this was a joint SAS project where we had to replicate seperate datasets from an original excel file. The coding skills that we utilized were extensive uses of if then/else/else if statements, array creation and referencing, merging and reorganizng rows and columns, and re-labeling variables making sure to exclude missing variables. This code along with the excel file should be the only dependencies requred to run. Make sure to replace the quoted file in lines 8 and 16 with new excel file source before running.
